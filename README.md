@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gustavo, tenho 20 anos e sou natural do Piauí.Atualmente estou cursando Engenharia de Software no Icev. Sou apaixonada por tecnologia,comprometido com boas práticas de código, aprendizado contínuo e entrega de soluções funcionais e escaláveis.
+Me chamo Gustavo, tenho 20 anos e sou natural do Piauí. Atualmente estou cursando Engenharia de Software no Icev. Sou apaixonado por tecnologia,comprometido com boas práticas de código, aprendizado contínuo e entrega de soluções funcionais e escaláveis.
 
 ---
 
