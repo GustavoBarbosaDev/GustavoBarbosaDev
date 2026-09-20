@@ -13,6 +13,10 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/GustavoBarbosaDev/GustavoBarbosaDev/output/github-snake.svg" width="100%" alt="Snake animation"/>
+
+<br/>
+
 <a href="https://github.com/GustavoBarbosaDev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=ff2b2b&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=50&lines=%3E+Backend+Developer+%7C+Python;%3E+Construindo+APIs+e+integrando+sistemas;%3E+Aprendendo+e+evoluindo+todo+dia" alt="Typing SVG" />
 </a>
