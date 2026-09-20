@@ -56,8 +56,8 @@ class Developer:
     def __init__(self):
         self.name      = "Gustavo Barbosa"
         self.role      = "Backend Developer"
-        self.language  = "Python 🐍"
-        self.location  = "Brasil 🇧🇷"
+        self.language  = "Python "
+        self.location  = "Brasil"
         self.focus     = ["APIs REST", "Microsserviços", "Arquitetura limpa", "Performance"]
         self.mindset   = "Código simples, testável e escalável"
 
