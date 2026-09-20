@@ -14,7 +14,7 @@
 <br/>
 
 <a href="https://github.com/GustavoBarbosaDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=ff2b2b&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=50&lines=%3E+Backend+Developer+%7C+Python+%F0%9F%90%8D;%3E+Construindo+APIs+e+integrando+sistemas;%3E+Aprendendo+e+evoluindo+todo+dia+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=ff2b2b&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=50&lines=%3E+Backend+Developer+%7C+Python;%3E+Construindo+APIs+e+integrando+sistemas;%3E+Aprendendo+e+evoluindo+todo+dia" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -132,10 +132,10 @@ Sou **Programador Backend** trabalhando com **Python**, construindo APIs e integ
 <div align="center">
 
 <a href="https://github.com/GustavoBarbosaDev">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoBarbosaDev&show_icons=true&hide_border=false&bg_color=0d1117&border_color=ff2b2b&title_color=ff2b2b&icon_color=ff2b2b&text_color=c9d1d9&ring_color=ff2b2b&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoBarbosaDev&show_icons=true&theme=radical&hide_border=false&bg_color=0d1117&border_color=ff2b2b&title_color=ff2b2b&icon_color=ff2b2b&text_color=c9d1d9&ring_color=ff2b2b&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/GustavoBarbosaDev?tab=repositories">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBarbosaDev&layout=compact&hide_border=false&bg_color=0d1117&border_color=ff2b2b&title_color=ff2b2b&text_color=c9d1d9&langs_count=5" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBarbosaDev&layout=compact&theme=radical&hide_border=false&bg_color=0d1117&border_color=ff2b2b&title_color=ff2b2b&text_color=c9d1d9&bar_color=ff2b2b&langs_count=5" alt="Top Languages" />
 </a>
 
 </div>
