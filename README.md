@@ -13,10 +13,6 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/GustavoBarbosaDev/GustavoBarbosaDev/output/github-snake.svg" width="100%" alt="Snake animation"/>
-
-<br/>
-
 <a href="https://github.com/GustavoBarbosaDev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=ff2b2b&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=50&lines=%3E+Backend+Developer+%7C+Python;%3E+Construindo+APIs+e+integrando+sistemas;%3E+Aprendendo+e+evoluindo+todo+dia" alt="Typing SVG" />
 </a>
@@ -141,6 +137,25 @@ Sou **Programador Backend** trabalhando com **Python**, construindo APIs e integ
 <a href="https://github.com/GustavoBarbosaDev?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBarbosaDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff2b2b&text_color=c9d1d9&bar_color=ff2b2b&langs_count=5" alt="Top Languages" />
 </a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divisor neon"/>
+
+## `> ./snake --eat contributions`
+
+<div align="center">
+
+<!--
+  Requer o workflow .github/workflows/snake.yml neste repositório
+  (repositório com o MESMO nome do seu usuário: SEU_USUARIO/SEU_USUARIO).
+  Rode-o uma vez em Actions → "Generate Snake Animation" → Run workflow.
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoBarbosaDev/GustavoBarbosaDev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoBarbosaDev/GustavoBarbosaDev/output/github-snake.svg" />
+  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/GustavoBarbosaDev/GustavoBarbosaDev/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
