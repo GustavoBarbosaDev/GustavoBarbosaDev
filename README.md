@@ -23,6 +23,10 @@
 <img src="https://img.shields.io/badge/STACK-PYTHON-ff2b2b?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=ff2b2b" alt="stack"/>
 <img src="https://img.shields.io/badge/OPEN%20TO-WORK-ff2b2b?style=for-the-badge&labelColor=0d1117&logo=handshake&logoColor=ff2b2b" alt="open to work"/>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=GustavoBarbosaDev&label=VISITAS&color=ff2b2b&style=for-the-badge&labelColor=0d1117" alt="visitas"/>
+
 </div>
 
 <br/>
@@ -102,8 +106,6 @@ Sou **Programador Backend** trabalhando com **Python**, construindo APIs e integ
 </td>
 </tr>
 </table>
-
-<sub>💡 Troque <code>projeto-1..4</code> pelos nomes reais dos seus repositórios. Eles precisam ser públicos.</sub>
 
 </div>
 
