@@ -121,13 +121,10 @@ Gosto de **arquitetura limpa**, **testes automatizados**, **observabilidade** e 
 <img src="https://img.shields.io/badge/Python-ff2b2b?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/FastAPI-ff2b2b?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Django-ff2b2b?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/Celery-ff2b2b?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
 <img src="https://img.shields.io/badge/SQLAlchemy-ff2b2b?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
 <img src="https://img.shields.io/badge/Pydantic-ff2b2b?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
 <br/>
 <img src="https://img.shields.io/badge/PostgreSQL-ff2b2b?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Redis-ff2b2b?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-<img src="https://img.shields.io/badge/RabbitMQ-ff2b2b?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
 <img src="https://img.shields.io/badge/Docker-ff2b2b?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/AWS-ff2b2b?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 
