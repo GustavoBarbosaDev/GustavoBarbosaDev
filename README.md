@@ -49,13 +49,14 @@ class Developer:
         return "Transformando requisitos em sistemas confiáveis."
 ```
 
-### 🧠 Sobre Mim
+### Sobre Mim
 
-Sou **Programador Backend** trabalhando com **Python**, construindo APIs e integrando sistemas. Gosto de código limpo, testes automatizados e de aprender coisas novas.
+Sou **Programador Backend** e trabalho com **Python** para transformar requisitos em APIs REST. Gosto de entender bem o problema antes de escrever a primeira linha e entregar código simples, testável e fácil de manter.
 
--  Estudando **boas práticas** e **testes**
--  Aprendendo sobre **Docker** e **banco de dados**
--  Aberto a **colaborações** e projetos open source
+-  **APIs com Python** — desenvolvimento de APIs REST com FastAPI, validação de dados, documentação automática (Swagger) e autenticação JWT
+-  **Banco de dados** — modelagem de dados e integração com PostgreSQL e SQLite usando SQLModel/SQLAlchemy
+-  **Qualidade & entrega** — testes automatizados com pytest, cobertura de código e CI com GitHub Actions
+-  **Colaboração** — versionamento com Git e GitHub, trabalho em equipe via pull requests e abertura a novas oportunidades
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divisor neon"/>
 
@@ -65,11 +66,11 @@ Sou **Programador Backend** trabalhando com **Python**, construindo APIs e integ
 
 ### Linguagens & Frameworks
 
-<img src="https://skillicons.dev/icons?i=py,fastapi,django,bash,sqlite&theme=dark" alt="linguagens e frameworks"/>
+<img src="https://skillicons.dev/icons?i=py,fastapi,django,bash&theme=dark" alt="linguagens e frameworks"/>
 
 ### Bancos de Dados
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" alt="bancos"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="bancos"/>
 
 
 </div>
@@ -83,8 +84,8 @@ Sou **Programador Backend** trabalhando com **Python**, construindo APIs e integ
 <table>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/GustavoBarbosaDev/projeto-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoBarbosaDev&repo=projeto-1&theme=radical&hide_border=false&bg_color=0d1117&border_color=ff2b2b&title_color=ff2b2b&icon_color=ff2b2b&text_color=c9d1d9" alt="Projeto 1" width="100%"/>
+<a href="https://github.com/GustavoBarbosaDev/socialink">
+<img src="./profile/pin-socialink.svg" alt="Socialink" width="100%"/>
 </a>
 </td>
 <td align="center" width="50%">
@@ -118,11 +119,11 @@ Sou **Programador Backend** trabalhando com **Python**, construindo APIs e integ
 # Objetivos atuais
 
 [ ✔ ] Python e APIs REST ..................... 100%
-[ ▶ ] FastAPI e Django ....................... 80%
-[ ▶ ] Banco de dados PostgreSQL .............. 70%
-[ ▶ ] Docker básico .......................... 60%
-[ ⏳ ] Testes automatizados ................... 40%
-[ ⏳ ] Git e GitHub .......................... 50%
+[ ▶ ] FastAPI e Django ....................... 85%
+[ ▶ ] Banco de dados PostgreSQL .............. 80%
+[ ▶ ] Testes automatizados ................... 90%
+[ ▶ ] Git e GitHub .......................... 70%
+[ ⏳ ] Docker básico .......................... 25%
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divisor neon"/>
@@ -132,10 +133,10 @@ Sou **Programador Backend** trabalhando com **Python**, construindo APIs e integ
 <div align="center">
 
 <a href="https://github.com/GustavoBarbosaDev">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoBarbosaDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff2b2b&icon_color=ff2b2b&text_color=c9d1d9&ring_color=ff2b2b&include_all_commits=true" alt="GitHub Stats" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/GustavoBarbosaDev?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBarbosaDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff2b2b&text_color=c9d1d9&bar_color=ff2b2b&langs_count=5" alt="Top Languages" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </a>
 
 </div>
